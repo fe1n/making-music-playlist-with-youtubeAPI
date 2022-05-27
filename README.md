@@ -2,9 +2,9 @@
 
 YouTubeAPIを使用して、個人の「高く評価した動画」のプレイリストから音楽タグがついている動画のみ抜き出してまとめ、新しく"Music"というプレイリストを作成します。
 
-"""
+'''
 python main.py
-"""
+'''
 
 使用するときは、google cloud platformからyoutubeAPIの設定をして、client_secrets.jsonファイルを作成してください。
 

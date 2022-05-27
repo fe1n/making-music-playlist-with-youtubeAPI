@@ -10,6 +10,6 @@ python main.py
 使用するときは、google cloud platformからyoutubeAPIの設定をして、client_secrets.jsonファイルを作成してください。
 
 ## 参考にしたサイト
-[PythonからYouTube Data APIを叩いてアップロード済み動画のリストを取得する](https://zenn.dev/yorifuji/articles/youtube-data-api-python)
-
 [YouTube Data API の概要 | Google Developers](https://developers.google.com/youtube/v3/getting-started?hl=ja)
+
+[PythonからYouTube Data APIを叩いてアップロード済み動画のリストを取得する](https://zenn.dev/yorifuji/articles/youtube-data-api-python)
